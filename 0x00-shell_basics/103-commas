@@ -1,2 +1,2 @@
-#!/bin/blash
-ls -mpa
+#!/bin/bash
+ls -xamp
